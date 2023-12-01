@@ -1,3 +1,9 @@
+/**
+ * @file main.c
+ * @brief Program to output different kinds of waves to DAC.
+ *
+ * This program initializes the USER Button using GPIO
+ */
 #include "main.h"
 
 /* Global variables */
